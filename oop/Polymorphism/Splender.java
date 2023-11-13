@@ -1,4 +1,4 @@
-package oop.Abstract;
+package oop.Polymorphism;
 
 public class Splender extends Bike  {
     void run() {
